@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- 沿途影像：相机（机身 + 取景凸起 + 暖黄镜头） -->
+  <rect x="4" y="14" width="40" height="26" rx="5" fill="#EAF1FA"/>
+  <rect x="17" y="8" width="14" height="7" rx="2.5" fill="#8FA3BE"/>
+  <circle cx="24" cy="27" r="9" fill="#0B1424"/>
+  <circle cx="24" cy="27" r="4.5" fill="#FFC46B"/>
+</svg>

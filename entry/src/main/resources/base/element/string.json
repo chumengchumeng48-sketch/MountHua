@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "An application that guides the night climb route of Mount Hua"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "华山夜爬"
+    },
+    {
+      "name": "bottom_text_map",
+      "value": "Route"
+    },
+    {
+      "name": "bottom_text_zones",
+      "value": "Stops"
+    },
+    {
+      "name": "bottom_text_trains",
+      "value": "Plan"
+    },
+    {
+      "name": "bottom_text_users",
+      "value": "Gear"
+    },
+    {
+      "name": "skip",
+      "value": "跳过"
+    }
+  ]
+}

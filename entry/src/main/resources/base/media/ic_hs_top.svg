@@ -1,0 +1,5 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- 回到首图：上箭头（圆形底板由按钮自己画） -->
+  <path d="M14 23 L24 12 L34 23" fill="none" stroke="#EAF1FA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24 14 V36" fill="none" stroke="#EAF1FA" stroke-width="5" stroke-linecap="round"/>
+</svg>

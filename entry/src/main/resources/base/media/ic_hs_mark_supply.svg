@@ -1,0 +1,5 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- 补给点 / 客栈：小屋（蓝） -->
+  <path d="M7 21 L24 8 L41 21 L41 40 L7 40 Z" fill="#4DA3FF" stroke="#0B1426" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="19" y="26" width="10" height="14" fill="#0B1426"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- 站点简介：说明牌（右上折角）+ 三条正文线 -->
+  <path d="M11 6 h18 l8 8 v28 a3 3 0 0 1 -3 3 H11 a3 3 0 0 1 -3 -3 V9 a3 3 0 0 1 3 -3 Z" fill="#EAF1FA"/>
+  <path d="M29 6 l8 8 h-8 Z" fill="#8FA3BE"/>
+  <rect x="15" y="22" width="18" height="3" rx="1.5" fill="#0B1424"/>
+  <rect x="15" y="29" width="18" height="3" rx="1.5" fill="#0B1424"/>
+  <rect x="15" y="36" width="11" height="3" rx="1.5" fill="#0B1424"/>
+</svg>

@@ -1,0 +1,22 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+
+# --- 以下为推送 GitHub 时新增 ---
+# 大文件归档（GitHub 单文件上限 100MB）
+*.rar
+# WorkBuddy 本地工具数据：构建日志、生成素材、旧版本备份
+/.workbuddy
+# 根目录备用启动图素材（源码中未引用）
+/base
+# 预览器构建产物
+**/.preview
